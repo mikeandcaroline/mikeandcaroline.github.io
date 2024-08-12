@@ -1,0 +1,23 @@
+---
+title: "2024.10.04 Caroline Owens & Michael Maniscalco"
+site: distill::distill_website
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+#https://ucsb-meds.github.io/customizing-websites-css/#1 Distill article tutorial
+```
+```{css}
+d-title {
+    display: none;
+  }
+```
+
+```{r,layout="l-screen", echo=FALSE, out.width='100%', out.extra='style="padding:0px"'}
+knitr::include_graphics("images/UCSB_beach.png")
+```
+
+## WEDDING STUFF
+
+[**Michael Maniscalco and Caroline Owens**](URL_IMAGE)
+

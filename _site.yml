@@ -1,0 +1,41 @@
+name: "mikeandcaroline.github.io"
+title: "2024.10.04 Caroline Owens & Michael Maniscalco"
+description: 
+output_dir: "docs"
+navbar:
+  right:
+    - text: "Home"
+      href: Home.html
+    - text: "Things to do"
+      menu:
+          - text: "Mountains"
+            href: Things_to_do.html
+          - text: "Ocean"
+            href: Things_to_do.html
+          - text: "City"
+            href: Things_to_do.html
+          - text: "Food"
+            href: Things_to_do.html
+    - text: "Travel"
+      href: Travel.html
+    - text: "Schedule"
+      menu:
+          - text: "Friday"
+            href: https://www.youtube.com/watch?v=dQw4w9WgXcQ&t=0s
+          - text: "Saturday"
+            href: https://www.youtube.com/watch?v=dQw4w9WgXcQ&t=0s
+          - text: "Sunday"
+            href: https://www.youtube.com/watch?v=dQw4w9WgXcQ&t=0s
+    - text: "Photos"
+      menu: 
+        - text: "Gallery"
+          href: https://www.youtube.com/watch?v=dQw4w9WgXcQ&t=0s
+        - text: "Upload"
+          href: https://www.youtube.com/watch?v=dQw4w9WgXcQ&t=0s
+    - text: "RSVP"
+      menu:
+        - text: "RSVP"
+          href: eelgrass_storymap.html
+        - text: "Save The Date"
+          href: https://www.youtube.com/watch?v=dQw4w9WgXcQ&t=0s
+output: distill::distill_article
