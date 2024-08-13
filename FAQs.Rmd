@@ -10,3 +10,6 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ### Where are good places to stay?
 
+### Whats the weather like?
+
+### What type of dress attire do you recommend for the wedding?
