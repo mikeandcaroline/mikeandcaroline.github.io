@@ -19,5 +19,6 @@ knitr::include_graphics("images/UCSB_beach.png")
 
 ## WEDDING STUFF
 
-[**Michael Maniscalco and Caroline Owens**](URL_IMAGE)
+**Michael Maniscalco and Caroline Owens**
+![Mike and Caroline after Caroline's thesis defense](images/gallery/MSI_balcony.png)
 

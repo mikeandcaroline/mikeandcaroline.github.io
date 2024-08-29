@@ -1,0 +1,28 @@
+---
+title: "Photo Gallery"
+description: |
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+![Photo by Kate Culhane at the Franklin Trail, one of our favorite SB hikes](images/gallery/franklin_trail.png)
+
+![Photo by a stranger right after we got engaged at Coal Oil Point in Goleta](images/gallery/beach_engagement.png)
+
+![Our neighbor Doris knitted us these matching hats!](images/gallery/doris_hats.png)
+
+![Behind the scenes of our Christmas card: Geoff took the original photo](images/gallery/xmas_original.png)
+
+![After a day hike to the bottom of the Grand Canyon and back](images/gallery/grand_canyon.png) 
+
+![After a much shorter hike in Zion during our cross country move](images/gallery/zion.png)
+
+![Dressing up for Halloween in 2019](images/gallery/halloween_hike.png) 
+
+![...and again in 2021](images/gallery/skunks.png)
+
+![Mike helped Caroline with her PhD research in 2019](images/gallery/SNARL_trunk.png)
+
+![Trophy hunting at our house in Goleta](images/gallery/rat.png)

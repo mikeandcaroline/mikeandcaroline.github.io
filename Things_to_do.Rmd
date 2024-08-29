@@ -24,7 +24,7 @@ knitr::opts_chunk$set(echo = FALSE)
 * Goleta (The Goodland)
   - Lily's Tacos
   - Nikka Ramen
-  - Backyard Bowls
+  - [Backyard Bowls](http://www.backyardbowls.com)
 
 * The Funk Zone
 

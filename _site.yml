@@ -30,13 +30,13 @@ navbar:
     - text: "Photos"
       menu: 
         - text: "Gallery"
-          href: https://www.youtube.com/watch?v=dQw4w9WgXcQ&t=0s
+          href: Photos.html
         - text: "Upload"
           href: https://www.youtube.com/watch?v=dQw4w9WgXcQ&t=0s
     - text: "RSVP"
       menu:
         - text: "RSVP"
-          href: eelgrass_storymap.html
+          href: RSVP.html
         - text: "Save The Date"
           href: https://www.youtube.com/watch?v=dQw4w9WgXcQ&t=0s
 output: distill::distill_article
