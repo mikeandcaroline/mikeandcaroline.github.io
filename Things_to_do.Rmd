@@ -22,7 +22,9 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## Restaurants
 * Goleta (The Goodland)
-* Lily's Tacos
+  - Lily's Tacos
+  - Nikka Ramen
+  - Backyard Bowls
 
 * The Funk Zone
 
@@ -30,8 +32,9 @@ knitr::opts_chunk$set(echo = FALSE)
   - Romanti Ezer food truck
   - Mony's Tacos
 
-* Upper State Stree
+* Upper State Street
   - Maiz Picante
+  - Yellowbelly
 
 * Montecito 
   - Bettina
@@ -39,11 +42,19 @@ knitr::opts_chunk$set(echo = FALSE)
 ## Coffee
 * Handlebar
 * Dune
+* Caje
 
 ## Breweries
+* In Goleta: Captain Fatty's
 
 ## Hikes
+* Cathedral / Arlington Peak
 
 ## Beaches and parks
+* Hendry's Beach (Arroyo Burro): dog friendly!
+* Lake Los Carneros (Goleta): our old neighborhood spot, paved and dirt paths around a scenic lake
+* Ellwood Bluffs
+* More Mesa
+* Coal Oil Point
 
 ## Scenic viewpoints, drives, and walks
