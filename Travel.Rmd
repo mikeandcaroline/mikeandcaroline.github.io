@@ -11,10 +11,23 @@ knitr::opts_chunk$set(echo = FALSE)
 ## How to get to Santa Barbara
 
 * Fly directly into Santa Barbara airport!
-  - Rental car options: If you want to avoid the airport rental car fees there is an Enterprise rental car shop ~0.5 miles from the Santa Barbara Airport (5959 Hollister Ave Ste B, Goleta, CA 93117)
+  - Rental car options: If you want to avoid airport rental car fees there is another Enterprise rental car location ~0.5 miles from the Santa Barbara Airport (5959 Hollister Ave Ste B, Goleta, CA 93117)
 
-* Fly into Los Angeles and take airbus to Santa Barbara
+* Fly into Los Angeles (about 90 miles, 1.5-3 hours from SB)
+  - If you rent a car from LA, you can enjoy a scenic drive along the coast to Santa Barbara - traffic is usually not bad once you get out of the immediate LAX area.
+  - The easiest bus option is the <a href="https://www.sbairbus.com/lax-shuttle-schedule-fares/">SB airbus</a> which goes directly from LAX to various locations around Goleta and Santa Barbara.
+  - Other options like Flixbus, Amtrak, and more may offer different price points, routes, and times.
+
+* Pacific Surfliner <a href="https://www.pacificsurfliner.com/">train</a>: we have never taken it but we hear great things!
 
 * Drive up from North, South, East, but probably not West
 
+## Where to stay
+
+* There are many nice hotel and AirBnB options around Santa Barbara
+* There are also beautiful campgrounds located just north and south of town
+* We will arrange a hotel block with discounted rates
+
+##
+We want to make your travel as smooth as possible so please reach out to us with any questions or concerns, to arrange carpools, etc!
 
