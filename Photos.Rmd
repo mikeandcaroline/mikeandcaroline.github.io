@@ -25,4 +25,3 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ![Mike helped Caroline with her PhD research in 2019](images/gallery/SNARL_trunk.png)
 
-![Trophy hunting at our house in Goleta](images/gallery/rat.png)
