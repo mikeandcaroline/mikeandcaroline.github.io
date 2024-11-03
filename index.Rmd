@@ -52,7 +52,7 @@ html {
 <h2 style="text-align:center"> October 4th, 2025 </h2>
 <h2 style="text-align:center"> Elings Park </h2>
 <h2 style="text-align:center"> Santa Barbara, CA </h2>
-```{r,echo=FALSE, out.width = "400px", fig.align="center",  out.extra='style="padding:150px"'}
+```{r,echo=FALSE, out.width = "400px", fig.align="center"}
 knitr::include_graphics("images/gallery/doris_hats.png")
 ```
 

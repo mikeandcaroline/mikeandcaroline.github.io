@@ -6,7 +6,6 @@ output_dir: "docs"
 navbar:
   right:
     - text: "Home"
-      # href: https://www.zola.com/wedding/michaelandcarolineoctober4
       href: index.html
     - text: "Things to do"
       menu:
