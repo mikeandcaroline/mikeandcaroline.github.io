@@ -6,7 +6,8 @@ output_dir: "docs"
 navbar:
   right:
     - text: "Home"
-      href: https://www.zola.com/wedding/michaelandcarolineoctober4
+      # href: https://www.zola.com/wedding/michaelandcarolineoctober4
+      href: index.html
     - text: "Things to do"
       menu:
           - text: "Mountains"
@@ -21,22 +22,17 @@ navbar:
       href: Travel.html
     - text: "Schedule"
       menu:
-          - text: "Friday"
-            href: https://www.youtube.com/watch?v=dQw4w9WgXcQ&t=0s
-          - text: "Saturday"
-            href: https://www.youtube.com/watch?v=dQw4w9WgXcQ&t=0s
-          - text: "Sunday"
-            href: https://www.youtube.com/watch?v=dQw4w9WgXcQ&t=0s
+      href: Schedule.html
     - text: "Photos"
       menu: 
         - text: "Gallery"
           href: Photos.html
         - text: "Upload"
           href: https://www.youtube.com/watch?v=dQw4w9WgXcQ&t=0s
-    - text: "RSVP"
-      menu:
-        - text: "RSVP"
-          href: RSVP.html
-        - text: "Save The Date"
-          href: https://www.youtube.com/watch?v=dQw4w9WgXcQ&t=0s
+    # - text: "RSVP"
+    #   menu:
+    #     - text: "RSVP"
+    #       href: RSVP.html
+    #     - text: "Save The Date"
+    #       href: https://www.youtube.com/watch?v=dQw4w9WgXcQ&t=0s
 output: distill::distill_article

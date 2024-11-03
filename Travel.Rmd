@@ -1,12 +1,12 @@
 ---
 title: "Travel"
 description: |
-
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
+
 
 ## How to get to Santa Barbara
 

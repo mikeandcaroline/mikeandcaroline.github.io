@@ -1,0 +1,14 @@
+/*-- Additional custom styles --*/
+/* Add any additional CSS rules below                      */
+
+body {
+    background-image: url("images/background.jpg");
+    background-size: 100%;
+    background-size: cover; /* makes the image cover the whole background */
+    background-position: center;
+    background-attachment: fixed; /* keeps the background fixed when scrolling */
+    background-repeat: no-repeat;
+}
+div {
+    background-color: rgba(255, 255, 255, 0.35);   /* 35% opaque white */;
+}

@@ -1,24 +1,60 @@
 ---
-title: "2025.10.04 Caroline Owens & Michael Maniscalco"
+title: "Caroline Owens & Michael Maniscalco"
 site: distill::distill_website
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
-#https://ucsb-meds.github.io/customizing-websites-css/#1 Distill article tutorial
 ```
+
 ```{css}
 d-title {
     display: none;
-  }
+}
+
+d-article {
+    background-color: rgba(255, 255, 255, 0);   /* 35% opaque white */;
+    margin: 100px; /* can adjust this size or switch it to a percent to change how the page layout looks. can also add a padding term to make sure there is always space inside the box outside the text*/
+}
+
+body {
+    background-image: url("images/background3.jpg");
+    background-size: 100%;
+    background-size: cover; /* makes the image cover the whole background */
+    background-position: center;
+    background-attachment: fixed; /* keeps the background fixed when scrolling */
+    background-repeat: no-repeat;
+}
+
+html {
+  /*-- Main font sizes --*/
+  --title-size:      50px;
+  --body-size:       1.06rem;
+  --code-size:       14px;
+  --aside-size:      12px;
+  --fig-cap-size:    13px;
+  /*-- Main font colors --*/
+  --title-color:     #FFFFFF;
+  --header-color:    #FFFFFF;
+  --body-color:      #FFFFFF;
+/*  --bkgd-color:      #59FFFFFF; */
+  --aside-color:     #FFFFFF;;
+  --fig-cap-color:   rgba(0, 0, 0, 0.6);
+  /*-- Specify custom fonts ~~~ must be imported above   --*/
+  --heading-font:    "Libre Baskerville", serif;
+  --mono-font:       monospace;
+  --body-font:       "Libre Baskerville", serif;
+  --navbar-font:     "Libre Baskerville", serif; /* websites + blogs only */
+}
 ```
 
-```{r,layout="l-screen", echo=FALSE, out.width='100%', out.extra='style="padding:0px"'}
-knitr::include_graphics("images/UCSB_beach.png")
+<h1 style="text-align:center"> Michael and Caroline </h1>
+<h2 style="text-align:center"> October 4th, 2025 </h2>
+<h2 style="text-align:center"> Elings Park </h2>
+<h2 style="text-align:center"> Santa Barbara, CA </h2>
+```{r,echo=FALSE, out.width = "400px", fig.align="center",  out.extra='style="padding:150px"'}
+knitr::include_graphics("images/gallery/doris_hats.png")
 ```
 
-## WEDDING STUFF
 
-**Michael Maniscalco and Caroline Owens**
-![Mike and Caroline after Caroline's thesis defense](images/gallery/MSI_balcony.png)
 

@@ -1,7 +1,6 @@
 ---
 title: "Things to do around Santa Barbara"
 description: |
-  
 ---
 
 ```{r setup, include=FALSE}
