@@ -8,15 +8,16 @@ navbar:
     - text: "Home"
       href: index.html
     - text: "Things to do"
+      href: Things_to_do.html
       menu:
-          - text: "Mountains"
-            href: Things_to_do.html
-          - text: "Ocean"
-            href: Things_to_do.html
-          - text: "City"
-            href: Things_to_do.html
-          - text: "Food"
-            href: Things_to_do.html
+          # - text: "Mountains"
+          #   href: Things_to_do.html
+          # - text: "Ocean"
+          #   href: Things_to_do.html
+          # - text: "City"
+          #   href: Things_to_do.html
+          # - text: "Food"
+          #   href: Things_to_do.html
     - text: "Travel"
       href: Travel.html
     - text: "Schedule"
