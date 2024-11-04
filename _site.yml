@@ -9,7 +9,7 @@ navbar:
       href: index.html
     - text: "Things to do"
       href: Things_to_do.html
-      menu:
+      # menu:
           # - text: "Mountains"
           #   href: Things_to_do.html
           # - text: "Ocean"
@@ -21,14 +21,9 @@ navbar:
     - text: "Travel"
       href: Travel.html
     - text: "Schedule"
-      menu:
-      href: Schedule.html
+      href: https://www.youtube.com/watch?v=dQw4w9WgXcQ&t=0s
     - text: "Photos"
-      menu: 
-        - text: "Gallery"
-          href: Photos.html
-        - text: "Upload"
-          href: https://www.youtube.com/watch?v=dQw4w9WgXcQ&t=0s
+      href: Photos.html
     # - text: "RSVP"
     #   menu:
     #     - text: "RSVP"
