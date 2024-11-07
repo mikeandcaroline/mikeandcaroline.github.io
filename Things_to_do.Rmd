@@ -8,15 +8,15 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 ## Get to know the area
-* Goleta (The Goodland)
+Here are a few places to get you oriented + consider visiting when you are around.
 
-* The Funk Zone
+* Goleta (The Goodland) - surrounding the UCSB campus between the ocean and mountains, Goleta is the town where we first met and lived together! Lots of beautiful parks, beaches, and neighborhoods
 
-* Downtown/waterfront
+* Downtown/waterfront SB - worth walking up and down State Street to the beach and pier, and through the Funk Zone (neighborhood with lots of art galleries and bars/breweries/wineries)
 
-* Montecito 
+* Montecito - just south of Santa Barbara, where celebrities live
 
-* Solvang
+* Solvang - a town up the 101 that, for whatever reason, is Danish themed. Also close to wine country in the Santa Ynez valley.
 
 
 ## Restaurants
@@ -24,12 +24,14 @@ knitr::opts_chunk$set(echo = FALSE)
   - Lily's Tacos
   - Nikka Ramen
   - [Backyard Bowls](http://www.backyardbowls.com)
-
-* The Funk Zone
+  - Noodle City
+  - Spudnuts Donuts
+  - El Sitio
 
 * Downtown/waterfront
   - Romanti Ezer food truck
   - Mony's Tacos
+  - McConnell's Ice Cream
 
 * Upper State Street
   - Maiz Picante
@@ -44,16 +46,27 @@ knitr::opts_chunk$set(echo = FALSE)
 * Caje
 
 ## Breweries
-* In Goleta: Captain Fatty's
+* In Goleta: Captain Fatty's or Draughtsmen
+* Downtown: Third Window (especially on burger night)
+* Funk Zone: Topa Topa
 
 ## Hikes
 * Cathedral / Arlington Peak
+* Mission Falls
+* Rattlesnake Canyon
+* San Ysidro Trail
+* Cold Spring Trail
 
 ## Beaches and parks
 * Hendry's Beach (Arroyo Burro): dog friendly!
 * Lake Los Carneros (Goleta): our old neighborhood spot, paved and dirt paths around a scenic lake
 * Ellwood Bluffs
 * More Mesa
-* Coal Oil Point
+* Coal Oil Point: near UCSB campus and a beautiful lagoon, lots of cool birds and a surf break here
 
 ## Scenic viewpoints, drives, and walks
+* East Mountain Drive
+* West Camino Cielo
+* Farren Road
+* Lizard's Mouth
+* SB Botanic Garden (walk out to the island view point!)
