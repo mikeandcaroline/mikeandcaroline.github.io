@@ -20,6 +20,8 @@ navbar:
           #   href: Things_to_do.html
     - text: "Travel"
       href: Travel.html
+    - text: "Lodging"
+      href: Lodging.html
     - text: "Schedule"
       href: https://www.youtube.com/watch?v=dQw4w9WgXcQ&t=0s
     - text: "Photos"

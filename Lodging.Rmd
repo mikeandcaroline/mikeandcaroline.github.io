@@ -1,0 +1,28 @@
+---
+title: "Lodging"
+description: |
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## The wedding venue is at Elings park which is in between Goleta and Downtoown Santa Barbara. We reserved a block of rooms at the South Coast Inn (Best Western) in Goleta....
+
+* We could create a map with some of the locations of hotels and other places
+
+## Hotels or AirBnB type lodging in either Goleta or Santa Barbara would be great and below are some available options, but google will undoubtedly offer a wider array of possibilities.
+
+#### Goleta Area
+[Best Western South Coast Inn - 5620 Calle Real](https://www.southcoastinn.net/)
+[Courtyard Marriott - 401 Storke Rd](https://www.marriott.com/en-us/hotels/sbacy-courtyard-santa-barbara-goleta/overview/)
+[Hampton Inn - 5665 Hollister Ave](https://www.hilton.com/en/hotels/sbagohx-hampton-santa-barbara-goleta/)
+[Hilton Garden Inn - 6878 Hollister Ave](https://www.hilton.com/en/hotels/sbahagi-hilton-garden-inn-santa-barbara-goleta/)
+[The Leta Hotel - 5650 Calle Real](https://www.hilton.com/en/hotels/sbactup-the-leta-santa-barbara-goleta/?WT.mc_id=zlada0ww1UP2psh3ggl4amphtbrd5dkt6SBACTUP7_153682779_1003528&gad_source=1&gclid=CjwKCAjwzMi_BhACEiwAX4YZUDYoN0hElOHBT0-2kTcUYec1a_RuAA1i859G5_A8jK3cFYS77iNzoRoCjnEQAvD_BwE&gclsrc=aw.ds)
+
+#### Santa Barbara Area
+[Best Western Pepper Tree Inn - 3850 State St](https://www.bestwestern.com/en_US/book/hotels-in-santa-barbara/best-western-plus-pepper-tree-inn/propertyCode.05182.html)
+[Hilton Santa Barbara - 633 E Cabrillo Blvd](https://www.hilton.com/en/hotels/sbafphh-hilton-santa-barbara-beachfront-resort/)
+[Hyatt Mar Monte - 1111 E Cabrillo Blvd](https://www.hyatt.com/unbound-collection/en-US/sbars-mar-monte-hotel)
+[Lemon Tree Inn - 2819 State St](https://www.treeinns.com/)
+[Sandpiper Lodge - 3525 State St](https://www.sandpiperlodge.com/en)
