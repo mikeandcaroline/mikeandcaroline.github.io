@@ -10,8 +10,18 @@ knitr::opts_chunk$set(echo = FALSE)
 d-title {
     display: none;
   }
+d-article {
+    background-color: rgba(255, 255, 255, 1.0);   /* 35% opaque white */;
+    margin: 10%; 
+    /* can adjust this size or switch it to a percent to change how the page layout looks. can also add a padding term to make sure there is always space inside the box outside the text*/
+}
 ```
 
 ```{r, layout="l-screen",echo=FALSE, out.width='100%'}
-htmltools::tags$iframe(src = "https://withjoy.com/michael-and-caroline-20251004/rsvp", height = "800px", width = "100%", `data-external` = "1")
+htmltools::tags$iframe(src = "https://withjoy.com/michael-and-caroline-20251004/rsvp", 
+                       height = "600px", 
+                       width = "100%",
+                       border = "none",
+                       overflow = "hidden",
+                       `data-external` = "1")
 ```
