@@ -25,5 +25,6 @@ navbar:
     - text: "Photos"
       href: Photos.html
     - text: "RSVP"
-      href: https://withjoy.com/michael-and-caroline-20251004/rsvp
+      href: RSVP.html
+      # href: https://withjoy.com/michael-and-caroline-20251004/rsvp
 output: distill::distill_article
