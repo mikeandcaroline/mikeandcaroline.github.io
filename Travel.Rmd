@@ -7,27 +7,33 @@ description: |
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-
 ## How to get to Santa Barbara
 
-* Fly directly into Santa Barbara airport!
-  - Rental car options: If you want to avoid airport rental car fees there is another Enterprise rental car location ~0.5 miles from the Santa Barbara Airport (5959 Hollister Ave Ste B, Goleta, CA 93117)
+By air...
 
-* Fly into Los Angeles (about 90 miles, 1.5-3 hours from SB)
-  - If you rent a car from LA, you can enjoy a scenic drive along the coast to Santa Barbara - traffic is usually not bad once you get out of the immediate LAX area.
-  - The easiest bus option is the <a href="https://www.sbairbus.com/lax-shuttle-schedule-fares/">SB airbus</a> which goes directly from LAX to various locations around Goleta and Santa Barbara.
-  - Other options like Flixbus, Amtrak, and more may offer different price points, routes, and times.
+-   Fly directly into Santa Barbara airport!
+    -   Rental car options: If you want to avoid airport rental car fees there is another Enterprise rental car location \~0.5 miles from the Santa Barbara Airport (5959 Hollister Ave Ste B, Goleta, CA 93117)
+-   Fly into Los Angeles (about 90 miles, 1.5-3 hours from SB)
+    -   If you rent a car from LA, you can enjoy a scenic drive along the coast to Santa Barbara - traffic is usually not bad once you get out of the immediate LAX area.
+    -   The easiest bus option is the <a href="https://www.sbairbus.com/lax-shuttle-schedule-fares/">SB airbus</a> which goes directly from LAX to various locations around Goleta and Santa Barbara.
+    -   Other options like Flixbus, Amtrak, and more may offer different price points, routes, and times.
 
-* Pacific Surfliner <a href="https://www.pacificsurfliner.com/">train</a>: we have never taken it but we hear great things!
+By train...
 
-* Drive up from North, South, East, but probably not West
+-   Pacific Surfliner <a href="https://www.pacificsurfliner.com/">train</a>: we have never taken it but we hear great things!
+
+By road...
+
+-   You can easily drive from North, South, East, but probably not West
+
+-   Santa Barbara is about 1-3 hours from LA, 4-5 hours from San Francisco, 12 hours from Salt Lake City, and 45 hours from Boston (depending on traffic)
 
 ## Where to stay
 
-* There are many nice hotel and AirBnB options around Santa Barbara
-* There are also beautiful campgrounds located just north and south of town
-* We will arrange a hotel block with discounted rates
+-   There are many nice hotels and AirBnBs around Santa Barbara
+-   We have put together some <a href="https://withjoy.com/michael-and-caroline-20251004/accommodations">recommendations and discount rates</a>, but SB is a tourist town so you have many options at a wide range of styles and budgets
+-   There are also beautiful campgrounds located just north and south of town (check El Capitan and Carpinteria State Beach for some of our favorites)
 
-##
-We want to make your travel as smooth as possible so please reach out to us with any questions or concerns, to arrange carpools, etc!
+## 
 
+We want to make your travel as smooth as possible so please reach out to us with any questions, ideas, or concerns!
