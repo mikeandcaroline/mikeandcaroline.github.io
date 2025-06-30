@@ -8,7 +8,7 @@ navbar:
     - text: "Home"
       href: index.html
     - text: "Things to do"
-      href: Things_to_do.html
+      href: things_to_do.html
       # menu:
           # - text: "Mountains"
           #   href: Things_to_do.html
@@ -18,12 +18,14 @@ navbar:
           #   href: Things_to_do.html
           # - text: "Food"
           #   href: Things_to_do.html
+    - text: "FAQs"
+      href: faqs.html
     - text: "Travel"
-      href: Travel.html
+      href: travel.html
     - text: "Schedule"
       href: https://www.youtube.com/watch?v=dQw4w9WgXcQ&t=0s
     - text: "Photos"
-      href: Photos.html
+      href: photos.html
     - text: "RSVP"
-      href: RSVP.html
+      href: rsvp.html
 output: distill::distill_article

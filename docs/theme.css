@@ -13,13 +13,13 @@
 /* This must remain at the top of this file.                 */
 html {
   /*-- Main font sizes --*/
-  --title-size:      50px;
+  --title-size:      40px;
   --body-size:       1.06rem;
   --code-size:       14px;
   --aside-size:      12px;
   --fig-cap-size:    13px;
   /*-- Main font colors --*/
-  --title-color:     #000000;
+  --title-color:     white;
   --header-color:    rgba(0, 0, 0, 0.8);
   --body-color:      rgba(0, 0, 0, 0.8);
 /*  --bkgd-color:      #59FFFFFF; */
@@ -32,6 +32,12 @@ html {
   --navbar-font:     "Libre Baskerville", serif; /* websites + blogs only */
 }
 
+/*-- Page header alignment--*/
+h1 {
+  text-align: center;
+  /*display: none;*/
+
+}
 
 /*-- ARTICLE METADATA --*/
 d-byline {
@@ -73,6 +79,9 @@ d-appendix {
 d-article {
     background-color: rgba(255, 255, 255, 0.40);   /* 35% opaque white */;
     margin: 10%; 
+    padding-top: 1.6em;
+    /* adjust to control spacing inside the box */
+
     /* can adjust this size or switch it to a percent to change how the page layout looks. can also add a padding term to make sure there is always space inside the box outside the text*/
 }
 
@@ -84,3 +93,6 @@ body {
     background-attachment: fixed; /* keeps the background fixed when scrolling */
     background-repeat: no-repeat;
 }
+
+
+

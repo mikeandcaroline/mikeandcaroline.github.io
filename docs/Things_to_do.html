@@ -107,7 +107,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   <!--radix_placeholder_rmarkdown_metadata-->
 
   <script type="text/json" id="radix-rmarkdown-metadata">
-  {"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["title","description"]}},"value":[{"type":"character","attributes":{},"value":["Things to do around Santa Barbara"]},{"type":"NULL"}]}
+  {"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["title","output"]}},"value":[{"type":"character","attributes":{},"value":["Things to do around Santa Barbara"]},{"type":"character","attributes":{},"value":["distill::distill_article"]}]}
   </script>
   <!--/radix_placeholder_rmarkdown_metadata-->
   <!--radix_placeholder_navigation_in_header-->
@@ -2188,13 +2188,13 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   /* This must remain at the top of this file.                 */
   html {
     /*-- Main font sizes --*/
-    --title-size:      50px;
+    --title-size:      40px;
     --body-size:       1.06rem;
     --code-size:       14px;
     --aside-size:      12px;
     --fig-cap-size:    13px;
     /*-- Main font colors --*/
-    --title-color:     #000000;
+    --title-color:     white;
     --header-color:    rgba(0, 0, 0, 0.8);
     --body-color:      rgba(0, 0, 0, 0.8);
   /*  --bkgd-color:      #59FFFFFF; */
@@ -2207,6 +2207,12 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
     --navbar-font:     "Libre Baskerville", serif; /* websites + blogs only */
   }
 
+  /*-- Page header alignment--*/
+  h1 {
+    text-align: center;
+    /*display: none;*/
+
+  }
 
   /*-- ARTICLE METADATA --*/
   d-byline {
@@ -2248,6 +2254,9 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   d-article {
       background-color: rgba(255, 255, 255, 0.40);   /* 35% opaque white */;
       margin: 10%; 
+      padding-top: 1.6em;
+      /* adjust to control spacing inside the box */
+
       /* can adjust this size or switch it to a percent to change how the page layout looks. can also add a padding term to make sure there is always space inside the box outside the text*/
   }
 
@@ -2258,7 +2267,10 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
       background-position: center;
       background-attachment: fixed; /* keeps the background fixed when scrolling */
       background-repeat: no-repeat;
-  }</style>
+  }
+
+
+  </style>
   <style type="text/css">
   /* base style */
 
@@ -2446,11 +2458,12 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 </div>
 <div class="nav-right">
 <a href="index.html">Home</a>
-<a href="Things_to_do.html">Things to do</a>
-<a href="Travel.html">Travel</a>
+<a href="things_to_do.html">Things to do</a>
+<a href="faqs.html">FAQs</a>
+<a href="travel.html">Travel</a>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&amp;t=0s">Schedule</a>
-<a href="Photos.html">Photos</a>
-<a href="RSVP.html">RSVP</a>
+<a href="photos.html">Photos</a>
+<a href="rsvp.html">RSVP</a>
 <a href="javascript:void(0);" class="nav-toggle">&#9776;</a>
 </div>
 </nav>

@@ -1,12 +1,11 @@
 ---
 title: "Things to do around Santa Barbara"
-description: |
+output: distill::distill_article
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
-
 ## Get to know the area
 Here are a few places to get you oriented + consider visiting when you are around.
 
