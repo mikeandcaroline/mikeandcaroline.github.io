@@ -39,6 +39,10 @@ h1 {
 
 }
 
+d-article h2{
+  font-size: 23px;
+}
+
 /*-- ARTICLE METADATA --*/
 d-byline {
   --heading-size:    0.6rem;

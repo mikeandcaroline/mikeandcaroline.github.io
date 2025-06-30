@@ -8,11 +8,11 @@ description: |
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-### When do we need to RSVP?
+## When do we need to RSVP?
 
 RSVP by August 15, thank you!
 
-### What should we wear?
+## What should we wear?
 
 Thanks to all of you who have helped us with our dress code questions. Friday and Sunday are casual events, with the option of getting in the ocean Sunday. 
 
@@ -20,11 +20,11 @@ For the ceremony and reception Saturday we want you to be comfortable, and also 
 
 There are some areas of uneven ground, stairs, and grass at the ceremony/reception location so we recommend flat shoes or at least wide heels! 
 
-### Where are good places to stay?
+## Where are good places to stay?
 
 Anywhere between Goleta and Carpinteria will be beautiful and convenient for the weekend! Check out our <a href="https://withjoy.com/michael-and-caroline-20251004/accommodations">hotel list</a> or <a href="Travel.html">Travel page</a> for more ideas.
 
-### What is the weather like?
+## What is the weather like?
 
 The weather in Santa Barbara is great. 
 
@@ -32,12 +32,12 @@ In October, we expect late afternoon highs in the mid-70s and early morning lows
 
 For the ceremony and reception on Saturday, we will be outdoors in a park. We are planning to set up some heat lamps, but consider a warm layer for the later evening especially if you get cold easily!
 
-### Can we park at the wedding?
+## Can we park at the wedding?
 
 Yes! Saturday and Sunday locations both have free parking lots. Friday's welcome party is in the Funk Zone neighborhood, which does have free street parking but can be a bit busy on weekend nights. There are reasonably priced <a href="https://santabarbaraca.gov/DowntownParkingLots" target="_blank">parking lots and decks</a> throughout downtown. 
 
 Please drive safely and consider using rideshare, <a href="https://santabarbara.bcycle.com/" target="_blank">renting ebikes</a>, or taking <a href="https://sbmtd.gov/maps-schedules/" target="_blank">MTD buses</a>!
 
-### What about cascarones?
+## What about cascarones?
 
 Cascarones are STRICTLY forbidden at Elings Park.
