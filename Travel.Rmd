@@ -37,12 +37,3 @@ By road...
 ## 
 
 We want to make your travel as smooth as possible so please reach out to us with any questions, ideas, or concerns!
-
-```{r, layout="l-screen",echo=FALSE, out.width='100%'}
-htmltools::tags$iframe(src = "https://withjoy.com/michael-and-caroline-20251004/accommodations", 
-                       height = "1000px", 
-                       width = "100%",
-                       border = "none",
-                       overflow = "hidden",
-                       `data-external` = "1")
-```
