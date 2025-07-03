@@ -14,7 +14,8 @@ navbar:
     - text: "Travel"
       href: travel.html
     - text: "Schedule"
-      href: https://www.youtube.com/watch?v=dQw4w9WgXcQ&t=0s
+      href: schedule.html
+      # href: https://www.youtube.com/watch?v=dQw4w9WgXcQ&t=0s
     - text: "Photos"
       href: photos.html
     - text: "RSVP"

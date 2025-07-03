@@ -7,11 +7,30 @@ description: |
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-#### Earlier in the week
+<center>
 
-#### Friday
+## Welcome party
 
-#### Saturday
+Friday, October 3 at <a href="https://maps.app.goo.gl/NKu4tCD2Jk8Ek97v8" target="_blank" rel="noopener noreferrer">Shalhoob's Funk Zone Patio</a>
 
-#### Sunday
+6:00 pm - 8:00 pm
 
+casual attire - food - drinks - catching up
+
+## Ceremony and reception
+
+Saturday, October 4 at <a href="https://maps.app.goo.gl/SRYVD6eqqACyyW8H8" target="_blank" rel="noopener noreferrer">Godric Grove in Elings Park</a>
+
+Ceremony at 4:00 pm, followed by dinner, games, and dancing until 10:00
+
+dressy casual attire
+
+## Send-off
+
+Sunday, October 5 at <a href="https://maps.app.goo.gl/xCZLJvN237cbDqF37" target="_blank" rel="noopener noreferrer">Goleta Beach Picnic Area B</a>
+
+10:30 am - 1:00 pm (ish)
+
+casual and/or swim attire - stop by for breakfast and beach fun!
+
+</center>
