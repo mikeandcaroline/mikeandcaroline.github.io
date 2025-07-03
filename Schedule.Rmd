@@ -11,26 +11,30 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## Welcome party
 
-Friday, October 3 at <a href="https://maps.app.goo.gl/NKu4tCD2Jk8Ek97v8" target="_blank" rel="noopener noreferrer">Shalhoob's Funk Zone Patio</a>
+**Friday, October 3 at <a href="https://maps.app.goo.gl/NKu4tCD2Jk8Ek97v8" target="_blank" rel="noopener noreferrer">Shalhoob's Funk Zone Patio</a>**
 
-6:00 pm - 8:00 pm
+**6:00 pm - 8:30 pm**
 
-casual attire - food - drinks - catching up
+*casual attire*
+
+If you're in town Friday evening, please join us for food + drinks in Santa Barbara's Funk Zone! There is free street parking or the restaurant is a short walk from State Street / downtown.
 
 ## Ceremony and reception
 
-Saturday, October 4 at <a href="https://maps.app.goo.gl/SRYVD6eqqACyyW8H8" target="_blank" rel="noopener noreferrer">Godric Grove in Elings Park</a>
+**Saturday, October 4 at <a href="https://maps.app.goo.gl/SRYVD6eqqACyyW8H8" target="_blank" rel="noopener noreferrer">Godric Grove in Elings Park</a>**
 
-Ceremony at 4:00 pm, followed by dinner, games, and dancing until 10:00
+**Ceremony at 4:00 pm, followed by dinner, games, and dancing until 10:00**
 
-dressy casual attire
+*dressy casual attire*
 
 ## Send-off
 
-Sunday, October 5 at <a href="https://maps.app.goo.gl/xCZLJvN237cbDqF37" target="_blank" rel="noopener noreferrer">Goleta Beach Picnic Area B</a>
+**Sunday, October 5 at <a href="https://maps.app.goo.gl/xCZLJvN237cbDqF37" target="_blank" rel="noopener noreferrer">Goleta Beach Picnic Area B</a>**
 
-10:30 am - 1:00 pm (ish)
+**10:30 am - 1:00 pm (ish)**
 
-casual and/or swim attire - stop by for breakfast and beach fun!
+*casual and/or swim attire*
+
+Stop to say bye on your way out of town, or come hang at the beach for a bit! We'll have breakfast foods, coffee and snacks, and there's beach and playground here. Bonus: UCSB campus is a pretty 1/4 mile walk up the hill. Plenty of free parking.
 
 </center>

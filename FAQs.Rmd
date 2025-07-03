@@ -10,13 +10,13 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## When do we need to RSVP?
 
-RSVP by August 15, thank you!
+RSVP by August 31, thank you!
 
 ## What should we wear?
 
 Thanks to all of you who have helped us with our dress code questions. Friday and Sunday are casual events, with the option of getting in the ocean Sunday. 
 
-For the ceremony and reception Saturday we want you to be comfortable, and also hope you'll take this as an excuse to dress up a little bit in whatever way is fun for you! The event is outside so it may be hot in the afternoon sun and cool by the end of the evening. A dress of any length, jacket and pants, suit, jumpsuit, button down shirt, or skirt/sweater would all be lovely. We're imagining a treehouse/garden/dressy casual event.
+For the ceremony and reception Saturday we want you to be comfortable, and also hope you'll take this as an excuse to dress up a little bit in whatever way is fun for you! The event is outside so it may be hot in the afternoon sun and chilly by the end of the evening. A dress of any length, jacket and pants, suit, jumpsuit, button down shirt, or skirt/sweater would all be lovely. We're imagining a treehouse/garden/dressy casual event.
 
 There are some areas of uneven ground, stairs, and grass at the ceremony/reception location so we recommend flat shoes or at least wide heels! 
 
